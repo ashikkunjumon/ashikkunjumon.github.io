@@ -58,6 +58,9 @@ body {
   overflow: hidden;
 }
 
+img {
+  border-radius: 50%;
+}
 #intro {
   position: absolute;
   left: 0;
